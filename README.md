@@ -2,7 +2,7 @@
 # fivem-react-nui-boilerplate
 YT : https://www.youtube.com/watch?v=QZBI7InYgXk
 # การติดตั้ง
-#### 1. git clone [https://github.com/nubdevfivem/nubdev-nui-react](https://github.com/ColabX2001/fivem-react-nui-boilerplate)
+#### 1. git clone https://github.com/nubdevfivem/nubdev-nui-react.git
 #### 2. cd react
 #### 3. npm i
 #### 4. npm run dev
